@@ -105,4 +105,3 @@ This project was developed for educational purposes to strengthen skills in **Py
 
 ---
 
-Would you like me to make it more **modern GitHub style** — with badges (like Python version, MySQL used, etc.) and emoji icons — so it looks even better when displayed on your GitHub profile?
